@@ -1,2 +1,2 @@
 # yuelei-hello-world
-just yuelei another repository
+just yuelei another repository.
